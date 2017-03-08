@@ -1,2 +1,4 @@
 # hello-world
-a short description
+Hello All!
+
+I'm new to this world, but I would love to become very proficient in the git world.
